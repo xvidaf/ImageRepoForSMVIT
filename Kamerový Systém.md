@@ -3,7 +3,7 @@
 
 ## Motivácia
 
-Mnoho ľudí má záujem zvýšiť bezpečnosť svojho domova kamerovým systémom, ale existujúce kamerové systémy sú často krát príliš drahé a ponúkajú funkcionality, ktoré bežný používateľ nemá šancu využiť. Pre takýchto ľudí môže byť atraktívnou alternatívou si podobný, jednoduchší a hlavne lacnejší kamerový systém vytvoriť vlastnoručne. Hlavnou časťou nášho systému je mikropočítač Rapsberri Pi. Ak teda potenciálny záujemca časom nebude potrebovať mať doma kamerový systém môže mnohé časti, ktoré pri jeho zostrojovaní zakúpil znovupoužiť pri iných projektoch.
+Mnoho ľudí má záujem zvýšiť bezpečnosť svojho domova kamerovým systémom, ale existujúce kamerové systémy sú často krát príliš drahé a ponúkajú funkcionality, ktoré bežný používateľ nemá šancu využiť. Pre takýchto ľudí môže byť atraktívnou alternatívou si podobný, jednoduchší a hlavne lacnejší kamerový systém vytvoriť vlastnoručne. Hlavnou časťou nášho systému je mikropočítač Rapsberri Pi, vďaka čomu, ak potenciálny záujemca už časom nebude potrebovať naďalej systém využívať, môže mnohé časti ktoré pri jeho zostrojovaní zakúpil znovupoužiť pri iných projektoch.
 
 ## Osobné ciele
 
@@ -38,9 +38,11 @@ Aj keď sa môže zdať že boli náklady na projekt z finančnej stránky vysok
 ## Biznisová Perspektíva
 
 Kamerový systém je určený pre dva typy používateľov. Prvým je používateľ, ktorého zaujíma biznisová stránka projektu a jej vecný prínos ako je napríklad monitorovanie pozemkov a zvýšenie zabezpečenia priestorov, po prípade môže takýto používateľ hľadať lacnejšie alternatívy vočí existujúcim systémom, ktoré poskytujú funkcionality, ktoré používateľ nevyužije a takýto komplikovaný systém je pre neho zbytočná investícia. Druhým typom používateľa je začiatočník programátor, ktorý sa chce zlepšíť v programovaní a niečo nové sa naučiť. 
+
 ![Alt text](https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/Business.png " a title")
 
 Tok programu je opísaný na diagrame nižšie. Po zapnutí programu kamera zaznamenáva obraz. Používateľ môže pomocou šípok ovládať servo a teda aj kameru alebo môže nahrávanie videa vypnúť. Po vypnutí nahrávania je video uložené na SD kartu v zariadení Raspberry PI.
+
 ![Alt text](https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/activity_updated.png " a title")
 
 ## Návrh Zariadenia
