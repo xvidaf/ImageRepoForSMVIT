@@ -28,11 +28,17 @@ Takýto projekt sme si vybrali z niekoľkých dôvodov. Prácou na projekte vo s
 ## Náklady na Projekt
 
 Raspberry Pi 3: 43,64 €
+
 Breadboard: 5,96 € (Set spolu s Breadboard)
+
 Servo Motor: 7,14 €
+
 Raspberry Pi Kamera: 16,18 €
+
 Rôzne Káble: 5,96 € (Set spolu s Breadboard)
+
 Raspberry Pi Skrinka: 7,20 €
+
 ---------------------------------------------
 Spolu: 80.12 €
 
