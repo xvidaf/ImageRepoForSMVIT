@@ -69,6 +69,7 @@ Raspbian je oficiálne podporovaný operačný systém pre systémy Raspberry Pi
 
 **Python**
 
+
 Programovací jazyk pre bežné účely vydaný v roku 1991. Podporuje objektovo orientované , funkcionálne aj štruktúrované programovanie. Jednou z jeho hlavných výhod je jednoduché a robustné rozširovanie pomocou modulov , ktoré môžu byť dokonca napísané aj v C alebo C++.
 
 **Picamera**
