@@ -60,32 +60,43 @@ Na obrázku uvedenom nižšie vidíme návrh zapojenia zariadenia. Batérie sú 
 ## Využité Technológie
 
 **Raspberry Pi**
+
 Raspberry Pi je séria jednodoskových počítačov vyrobených firmou Raspberry Pi Foundation s cieľom podporiť vzdelávanie v oblasti počítačových vied. Vyšlo niekoľko verzií , aktuálne sú to rady Raspberry Pi 1, Raspberry Pi 2 a  Raspberry Pi 3 , verzia sa líšia výkonnosťou, počtom periférií na doske a počtom dostupných rozšírení. Prvá generácia týchto počítačov bola vydaná v roku 2012 , vývoj pokračuje dodnes.
 
 **Raspbian**
+
 Raspbian je oficiálne podporovaný operačný systém pre systémy Raspberry Pi vyvíjaný firmou Raspberry Pi Foundation. Je optimalizovaný pre ARM procesor ktorý sa nachádza v Raspberry Pi.
 
 **Python**
+
 Programovací jazyk pre bežné účely vydaný v roku 1991. Podporuje objektovo orientované , funkcionálne aj štruktúrované programovanie. Jednou z jeho hlavných výhod je jednoduché a robustné rozširovanie pomocou modulov , ktoré môžu byť dokonca napísané aj v C alebo C++.
+
 **Picamera**
+
 Oficiálna knižnica pre Raspberry Pi kamerový modul a programovací jazyk Python. Umožňuje jednoduchú manipuláciu s kamerou , ukladanie snímok do rôznych formátov pre ďalšie spracovanie alebo rýchle zobrazovanie snímok pre neustále video.
 
 **OpenCV**
+
 OpenCV (Open Source Computer Vision Library) je knižnica pre C, C++, a Python a podporuje operačné systémy Windows, Linux, Mac OS, iOS a Android. Je vydaná pod licenciou BSD a preto je dostupná zdarma pre akademické aj komerčné použitie. Bola vyvinutá z ohľadom na výpočtovú výkonnosť a prácu s aplikáciami v reálnom čase. OpenCV umožňuje spracovanie obrazov napríklad za účel rozpoznania tvárí , pohybu alebo napríklad na spočítanie určitých objektov v obraze či dokonca aj čítanie textu.
 
 **Haar-like features**
+
 Haar-like features sú vlastnosti digitálnych snímok pomocou ktorých vieme na daných snímkach vyhľadávať rôzne tvary, najčastejšie tváre. Táto metóda bola prvý krát navrhnutá v publikácii "Rapid Object Detection using a Boosted Cascade of Simple Features" od autora Paul Viola a Michael Jones v roku 2001. Základom tohto procesu je spracovanie mnohých snímok ktoré obsahujú predmet, ktorý chceme aby sa proces naučil hľadať, ale aj snímok kde sa tento predmet nenachádza. 
 
 **Virtual Network Computing**
+
 Vitrtual Network Computing (VNC) je systém ktorý dokáže graficky zdielať plochy. Na vzdialené ovládanie systému využíva Remote Frame Buffer Protocol (RFBP). Vysiela pokyny z myši a klávesnice z pripojeného počítača, na ten na ktorom beží server a periodicky updatuje grafický záznam z plochy zariadenie, na ktorom sme pripojení. VNC Server, je program na zariadení, ktoré obrazovku zdieľa. VNC viewer (alebo klient) je program ktorý používame na zariadení ktoré sa chce pripojiť na VNC Server.
 
 **Pigpio**
+
 Pigpio je knižnica pre Raspberry Pi ktorá umožňuje kontrolu General Purpose Input Outputs (GPIO). Je funkčná pre každú verziu Raspberry Pi.  Každý GPIO je fyzicky prístupný, niektoré sú rezervované pre využitie systémom. Originálne napísané v C, no bol vydaný oficiálny modul pre Python. Neoficiálne wrappery existujú aj pre jazyky ako Java, Erlang alebo Xojo. Medzi funkcie Pigpio patria napríklad hardvérovo časované PWM na všetkých GPIO portoch či hardvérovo časované servo pulzy.
 
 **FEETECH FS90R Micro Continuous Rotation Servo**
+
 FS90R je mikro servo navrhnuté špecificky na neustálu rotáciu, ponúka lacnú a ľahkú rotáciu pre rôzne prístroje , či už sú to roboty alebo kamery. Pre toto servo existujú aj špecificky vyrobené kolesá pre umožnenie pohybu pre robotov či autá na ovládanie
 
 **Numpy**
+
 Numpy je knižnica pre programovací jazyk Python, pridáva podporu pre veľké, multi-dimenzionálne rady (arrays) a matrice (matrices). Knižnica tiež pridáva vysoko-úrovňové matematické operácie ktoré s radami a matricami pracujú.
 
 **Raspberry Pi Camera Board**
