@@ -55,7 +55,7 @@ And of course Dillinger itself is open source with a [public repository][dill]
 
 ![Alt text](https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/servo_specs.png "a title")
 
-![Alt text]([https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/Business.png](https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/Business.png)https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/Business.png " a title")
+![Alt text](https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/Business.png " a title")
 
 ## Využité Technológie
 
