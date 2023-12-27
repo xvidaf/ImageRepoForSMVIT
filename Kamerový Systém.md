@@ -60,7 +60,7 @@ Na obrázku uvedenom nižšie vidíme návrh zapojenia zariadenia. Batérie sú 
 
 ![Alt text](https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/project_fritz.png "a title")
 
-![Alt text](https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/project_GPIO.png "a title")
+![Alt text](https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/GPIO.png "a title")
 
 ## Využité Technológie
 
