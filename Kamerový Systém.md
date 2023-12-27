@@ -29,6 +29,13 @@ watch the results in the right.
 
 ## Náklady na Projekt
 
+## Potencionálny Biznisový Prínos
+
+- Bezpečnosť : Výstup projektu môže slúžiť na bezpečnostné účely. Kamerový systém umiestnený na správnom mieste dokáže zachytiť a reagovať na pohyb.
+- Monitorovanie : Výstup projektu je vhodný na monitorovacie účely, napríklad zvierat.
+- Automatizácia : Kamerový systém je jednoducho rozšíriteľný. Dá sa jednoducho naprogramovať reakcie na zachytenie pohybu či tváre.
+- Vzdelávanie a Sebarozvoj : Pre nás tento projekt slúžil ako mále ponorenie do svetu hardvéru a návrhu hardvérového sýstému, nie len softvéru. Pre budúcich čitateľov projekt poslúži ako pomôcka pri podobných projektoch.
+
 ## Biznisová Perspektíva
 
 Dillinger uses a number of open source projects to work properly:
