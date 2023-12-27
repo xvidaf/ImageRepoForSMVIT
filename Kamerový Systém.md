@@ -57,7 +57,7 @@ Na obrázku uvedenom nižšie vidíme návrh zapojenia zariadenia. Batérie sú 
 
 ![Alt text](https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/GPIO.png "a title")
 
-## Využité Technológie
+## Využité Technológie, Koncepty a Zariadenia
 
 **Raspberry Pi**
 
@@ -101,6 +101,7 @@ FS90R je mikro servo navrhnuté špecificky na neustálu rotáciu, ponúka lacn�
 Numpy je knižnica pre programovací jazyk Python, pridáva podporu pre veľké, multi-dimenzionálne rady (arrays) a matrice (matrices). Knižnica tiež pridáva vysoko-úrovňové matematické operácie ktoré s radami a matricami pracujú.
 
 **Raspberry Pi Camera Board**
+
 Kamera špecificky navrhnutá pre Raspberry Pi, na prepojenie k Raspberry Pi slúži plochý kábel so špeciálnym CSI rozhraním. Váži 3 gramy, natívne rozlíšenie až 5MPx , 1080p a dosahuje najviac 30fps. Pomer výkonu, veľkosti a ceny tejto kamera z nej robí atraktívnu možnosť pre takéto projekty.
  
 ## Projekt v Akcii
