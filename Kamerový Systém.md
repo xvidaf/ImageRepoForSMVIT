@@ -3,7 +3,7 @@
 
 ## Motivácia
 
-TODO
+TODO Pinke
 
 ## Osobné ciele
 
@@ -37,7 +37,7 @@ Aj keď sa môže zdať že boli náklady na projekt z finančnej stránky vysok
 
 ## Biznisová Perspektíva
 
-TODO
+TODO Pinke
 
 ## Návrh Zariadenia
 
@@ -53,7 +53,11 @@ Na obrázku uvedenom nižšie vidíme návrh zapojenia zariadenia. Batérie sú 
 
 ## Využité Technológie
 
+TODO Filip
+
 ## Projekt v Akcii
+
+TODO Roland
 
 ![Alt text](https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/project_pic.jpg "a title")
 
