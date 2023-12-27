@@ -50,14 +50,23 @@ Dillinger uses a number of open source projects to work properly:
 to Markdown converter
 - [jQuery] - duh
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
+## Návrh Zariadenia
+
+Na nižšie uvedenom diagrame komponentov vidíme základný návrh zariadenia. Najdôležitejšími komponentamy. ktoré sú potrebné pre základné správanie sú zariadenie Raspberry Pi a modul Kamery. Servo motor funguje ako dodatočný komponent, ktorý dodáva potencionálnu mobilitu riešieniu. 
 
 ![Alt text](https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/image.png "a title")
 
-![Alt text](https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/project_pic.jpg "a title")
+Na obrázku uvedenom nižšie vidíme návrh zapojenia zariadenia. Batérie sú nutné pre funkčnosť servo motora. Servo motor je ovládaný pomocou Raspberry Pi Pinov, konkrétne Pin 12, ktorý je jedným z GPIO portov. Porty je možné vidieť na obrázku nižšie. Uvedené porty sú ekvivalentné k diagramu zapojenia.
 
 ![Alt text](https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/project_fritz.png "a title")
+
+![Alt text](https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/project_GPIO.png "a title")
+
+## Využité Technológie
+
+## Projekt v Akcii
+
+![Alt text](https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/project_pic.jpg "a title")
 
 ![Alt text](https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/servo_specs.png "a title")
 
@@ -65,6 +74,3 @@ And of course Dillinger itself is open source with a [public repository][dill]
 
 ![Alt text](https://github.com/xvidaf/ImageRepoForSMVIT/blob/main/activity_updated.png " a title")
 
-## Využité Technológie
-
-## Projekt v Akcii
