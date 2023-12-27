@@ -23,18 +23,16 @@ As [John Gruber] writes on the [Markdown site][df1]
 
 ## Osobné ciele
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+Takýto projekt sme si vybrali z niekoľkých dôvodov. Prácou na projekte vo skupine si zvýšime naše schopnosti kolaborácie, a prehĺbime profesíjne vzťahy. Štúdium na FIIT nám neprinieslo mnoho pŕiležitostí venovať sa aj harvérovej časti systémov, pohľad na túto časť pre nás bude prínosný a zaujímavý. Projekt sme tiež vytvorili z už dostupných komponentov, čo bolo výzva pre našu víziju a kreativitu. 
 
 ## Náklady na Projekt
 
 ## Potencionálny Biznisový Prínos
 
-- Bezpečnosť : Výstup projektu môže slúžiť na bezpečnostné účely. Kamerový systém umiestnený na správnom mieste dokáže zachytiť a reagovať na pohyb.
-- Monitorovanie : Výstup projektu je vhodný na monitorovacie účely, napríklad zvierat.
-- Automatizácia : Kamerový systém je jednoducho rozšíriteľný. Dá sa jednoducho naprogramovať reakcie na zachytenie pohybu či tváre.
-- Vzdelávanie a Sebarozvoj : Pre nás tento projekt slúžil ako mále ponorenie do svetu hardvéru a návrhu hardvérového sýstému, nie len softvéru. Pre budúcich čitateľov projekt poslúži ako pomôcka pri podobných projektoch.
+- **Bezpečnosť** : Výstup projektu môže slúžiť na bezpečnostné účely. Kamerový systém umiestnený na správnom mieste dokáže zachytiť a reagovať na pohyb.
+- **Monitorovanie** : Výstup projektu je vhodný na monitorovacie účely, napríklad zvierat.
+- **Automatizácia** : Kamerový systém je jednoducho rozšíriteľný. Dá sa jednoducho naprogramovať reakcie na zachytenie pohybu či tváre.
+- **Vzdelávanie a Sebarozvoj** : Pre nás tento projekt slúžil ako mále ponorenie do svetu hardvéru a návrhu hardvérového sýstému, nie len softvéru. Pre budúcich čitateľov projekt poslúži ako pomôcka pri podobných projektoch.
 
 ## Biznisová Perspektíva
 
