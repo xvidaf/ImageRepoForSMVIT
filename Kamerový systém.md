@@ -128,7 +128,8 @@ Ukážkové video na ktorom je zachytené ako je možné pomocou klávesnice ovl
   <source src="https://github.com/xvidaf/ImageRepoForSMVIT/raw/main/camera_demo.mp4" type="video/mp4">
 </video>
 
-
+Zostavený kamerový systém
 ![Alt text](https://raw.githubusercontent.com/xvidaf/ImageRepoForSMVIT/main/project_pic.jpg "a title")
 
+Špecifikácie serva
 ![Alt text](https://raw.githubusercontent.com/xvidaf/ImageRepoForSMVIT/main/servo_specs.png "a title")
