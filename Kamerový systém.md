@@ -112,15 +112,11 @@ Kamera špecificky navrhnutá pre Raspberry Pi, na prepojenie k Raspberry Pi sl�
 
 Na ukážkovom videu je vidno ako kamera zaznamenáva obraz a program dokáže rozpoznať ľudské tváre a označiť ich na videu. 
 
-![]([my_video.mov]([https://github.com/xvidaf/ImageRepoForSMVIT/raw/main/camera_demo_face_recognition.mkv](https://github.com/xvidaf/ImageRepoForSMVIT/raw/main/camera_demo_face_recognition.mkv))
-
 <video width="320" height="240" controls>
   <source src="https://github.com/xvidaf/ImageRepoForSMVIT/raw/main/camera_demo_face_recognition.mkv" type="video/mp4">
 </video>
 
 Na ukážkovom videu je vidno ako kamerový systém rozpoznal potenciálneho lupiča citlivých dát. Po takomto rozpoznaní môže napríklad poslať zaznamenaný obrázok na mailovú adresu vlastníka kamerového systému. 
-
-![]([my_video.mov](https://github.com/xvidaf/ImageRepoForSMVIT/raw/main/security_feed.mkv)
 
 <video width="320" height="240" controls>
   <source src="https://github.com/xvidaf/ImageRepoForSMVIT/raw/main/security_feed.mkv" type="video/mp4">
@@ -128,12 +124,9 @@ Na ukážkovom videu je vidno ako kamerový systém rozpoznal potenciálneho lup
 
 Ukážkové video na ktorom je zachytené ako je možné pomocou klávesnice ovládať servo.
 
-![]([my_video.mov](https://github.com/xvidaf/ImageRepoForSMVIT/raw/main/camera_demo.mp4)
-
 <video width="320" height="240" controls>
   <source src="https://github.com/xvidaf/ImageRepoForSMVIT/raw/main/camera_demo.mp4" type="video/mp4">
 </video>
-
 
 
 ![Alt text](https://raw.githubusercontent.com/xvidaf/ImageRepoForSMVIT/main/project_pic.jpg "a title")
