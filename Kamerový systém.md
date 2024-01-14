@@ -112,7 +112,7 @@ Kamera špecificky navrhnutá pre Raspberry Pi, na prepojenie k Raspberry Pi sl�
 
 Na ukážkovom videu je vidno ako kamera zaznamenáva obraz a program dokáže rozpoznať ľudské tváre a označiť ich na videu. 
 
-![]([my_video.mov](https://github.com/xvidaf/ImageRepoForSMVIT/raw/main/camera_demo_face_recognition.mkv)
+![]([my_video.mov]([https://github.com/xvidaf/ImageRepoForSMVIT/raw/main/camera_demo_face_recognition.mkv](https://github.com/xvidaf/ImageRepoForSMVIT/raw/main/camera_demo_face_recognition.mkv))
 
 <video width="320" height="240" controls>
   <source src="https://github.com/xvidaf/ImageRepoForSMVIT/raw/main/camera_demo_face_recognition.mkv" type="video/mp4">
