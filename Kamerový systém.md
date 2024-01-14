@@ -39,6 +39,8 @@ Aj keď sa môže zdať že boli náklady na projekt z finančnej stránky vysok
 
 Kamerový systém je určený pre dva typy používateľov. Prvým je používateľ, ktorého zaujíma biznisová stránka projektu a jej vecný prínos ako je napríklad monitorovanie pozemkov a zvýšenie zabezpečenia priestorov, po prípade môže takýto používateľ hľadať lacnejšie alternatívy vočí existujúcim systémom, ktoré poskytujú funkcionality, ktoré používateľ nevyužije a takýto komplikovaný systém je pre neho zbytočná investícia. Druhým typom používateľa je začiatočník programátor, ktorý sa chce zlepšíť v programovaní a niečo nové sa naučiť. 
 
+![Alt text](https://raw.githubusercontent.com/xvidaf/ImageRepoForSMVIT/main/concept.png " a title")
+
 ![Alt text](https://raw.githubusercontent.com/xvidaf/ImageRepoForSMVIT/main/Business.png " a title")
 
 Pri navrhovaný riešenia sme si stanovili tiež požiadavky, ktoré museli byť po skončení projektu splnené.
@@ -113,19 +115,19 @@ Kamera špecificky navrhnutá pre Raspberry Pi, na prepojenie k Raspberry Pi sl�
 Na ukážkovom videu je vidno ako kamera zaznamenáva obraz a program dokáže rozpoznať ľudské tváre a označiť ich na videu. 
 
 <video width="320" height="240" controls>
-  <source src="https://raw.githubusercontent.com/xvidaf/ImageRepoForSMVIT/raw/main/camera_demo_face_recognition.mkv" type="video/mp4">
+  <source src="https://github.com/xvidaf/ImageRepoForSMVIT/raw/main/camera_demo_face_recognition.mkv" type="video/mp4">
 </video>
 
 Na ukážkovom videu je vidno ako kamerový systém rozpoznal potenciálneho lupiča citlivých dát. Po takomto rozpoznaní môže napríklad poslať zaznamenaný obrázok na mailovú adresu vlastníka kamerového systému. 
 
 <video width="320" height="240" controls>
-  <source src="https://raw.githubusercontent.com/xvidaf/ImageRepoForSMVIT/raw/main/security_feed.mkv" type="video/mp4">
+  <source src="https://github.com/xvidaf/ImageRepoForSMVIT/raw/main/security_feed.mkv" type="video/mp4">
 </video>
 
 Ukážkové video na ktorom je zachytené ako je možné pomocou klávesnice ovládať servo.
 
 <video width="320" height="240" controls>
-  <source src="https://raw.githubusercontent.com/xvidaf/ImageRepoForSMVIT/raw/main/camera_demo.mp4" type="video/mp4">
+  <source src="https://github.com/xvidaf/ImageRepoForSMVIT/raw/main/camera_demo.mp4" type="video/mp4">
 </video>
 
 Zostavený kamerový systém
