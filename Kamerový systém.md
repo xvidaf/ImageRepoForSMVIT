@@ -7,6 +7,8 @@ Mnoho ľudí má záujem zvýšiť bezpečnosť svojho domova kamerovým systém
 
 ![Alt text](https://raw.githubusercontent.com/xvidaf/ImageRepoForSMVIT/main/FaceDetection.png " a title")
 
+![Alt text](https://raw.githubusercontent.com/xvidaf/ImageRepoForSMVIT/main/MotionDetection.png " a title")
+
 ## Osobné ciele
 
 Takýto projekt sme si vybrali z niekoľkých dôvodov. Prácou na projekte vo skupine si zvýšime naše schopnosti kolaborácie, a prehĺbime profesíjne vzťahy. Štúdium na FIIT nám neprinieslo mnoho pŕiležitostí venovať sa aj harvérovej časti systémov, pohľad na túto časť pre nás bude prínosný a zaujímavý. Projekt sme tiež vytvorili z už dostupných komponentov, čo bolo výzva pre našu víziju a kreativitu. 
