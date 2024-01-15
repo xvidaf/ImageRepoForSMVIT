@@ -5,6 +5,8 @@
 
 Mnoho ľudí má záujem zvýšiť bezpečnosť svojho domova kamerovým systémom, ale existujúce kamerové systémy sú často krát príliš drahé a ponúkajú funkcionality, ktoré bežný používateľ nemá šancu využiť. Pre takýchto ľudí môže byť atraktívnou alternatívou si podobný, jednoduchší a hlavne lacnejší kamerový systém vytvoriť vlastnoručne. Hlavnou časťou nášho systému je mikropočítač Rapsberri Pi, vďaka čomu, ak potenciálny záujemca už časom nebude potrebovať naďalej systém využívať, môže mnohé časti ktoré pri jeho zostrojovaní zakúpil znovupoužiť pri iných projektoch.
 
+![Alt text](https://raw.githubusercontent.com/xvidaf/ImageRepoForSMVIT/main/FaceDetection.png " a title")
+
 ## Osobné ciele
 
 Takýto projekt sme si vybrali z niekoľkých dôvodov. Prácou na projekte vo skupine si zvýšime naše schopnosti kolaborácie, a prehĺbime profesíjne vzťahy. Štúdium na FIIT nám neprinieslo mnoho pŕiležitostí venovať sa aj harvérovej časti systémov, pohľad na túto časť pre nás bude prínosný a zaujímavý. Projekt sme tiež vytvorili z už dostupných komponentov, čo bolo výzva pre našu víziju a kreativitu. 
